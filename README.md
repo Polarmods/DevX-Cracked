@@ -47,5 +47,6 @@ Installation
 - Download and extract the .zip in releases
 - Run "DevXUnityUnpackerMain.exe"
 - When the license window pops up, press "Activate License" and wait.
-- A promp will appear informing you that DevX will freeze for a little bit, press "OK"
+- A prompt will appear informing you that DevX will freeze for a little bit, press "OK"
+- When message that says "data loaded" appears, press "OK" and close the license window.
 - DevX is ready to use when you see "DevXUnityEditor-GameRecovery" on the top left of the application.
