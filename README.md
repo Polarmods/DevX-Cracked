@@ -30,7 +30,10 @@ Jasmur and I have managed to do some very interesting things as far as OBB and B
 
 -Speed
 
-
+---
+Note
+---
+DevX at this time supports only unity 2021.2.5 and lower
 
 -------------
 Why use DevX?
