@@ -2,9 +2,8 @@
 
 This is a cracked version of the full Game Recovery license of DevX. The one who cracked it has asked me not to share their name. The purpose of going public with it is so that the modding community can expand on the knowledge that's been gained, by sharing their own discoveries made with it (I'm still discovering new tricks with it).
 
-Jasmur and I have managed to do some very interesting things as far as OBB and Bundle modding goes on mobile (thus bypassing integrity checks, and allowing for Google sign in without root) To name a few things accomplished with this:
+Jasmur and I have managed to do some very interesting things as far as OBB and Bundle modding goes on mobile (thus bypassing integrity checks, and allowing for Google sign in without root)
 
-Universal WallHack Universal Chams AimBot (You read that correctly, I will explain in the guide). Silent Aim AntiCheat Bypasses (by forcing some AC prefabs to not be Active) Unlocking Developer/Debug/GameTest/Cheat menus (by forcing these prefabs to be Active lol) No Clip & Deletion of obstacles God Mode Unlimited Ammo Instant Reload Flying Speed
 -------------
 Why use DevX?
 -------------
