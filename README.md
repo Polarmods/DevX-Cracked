@@ -4,9 +4,7 @@ This is a cracked version of the full Game Recovery license of DevX. The one who
 
 Jasmur and I have managed to do some very interesting things as far as OBB and Bundle modding goes on mobile (thus bypassing integrity checks, and allowing for Google sign in without root) To name a few things possible:
 
--Universal
-
--WallHack
+-Universal WallHack
 
 -Universal Chams 
 
@@ -42,3 +40,12 @@ Why use DevX?
 - Good extension to have for modding (Can view/modify all components used by a GameObject, and see which scripts are attached/used
 - Basically having almost as much power as a developer
 - There's a whole lot more that I'm too lazy to list, but I'll let your curious mind explore ;)
+
+-------------
+Installation
+-------------
+- Download and extract the .zip in releases
+- Run "DevXUnityUnpackerMain.exe"
+- When the license window pops up, press "Activate License" and wait.
+- A promp will appear informing you that DevX will freeze for a little bit, press "OK"
+- DevX is ready to use when you see "DevXUnityEditor-GameRecovery" on the top left of the application.
