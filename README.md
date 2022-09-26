@@ -33,7 +33,7 @@ Jasmur and I have managed to do some very interesting things as far as OBB and B
 ---
 Note
 ---
-DevX at this time supports only unity 2021.2.5 and lower
+Contribute by creating DevX-C plugins for the tool and sharing new ideas and techniques
 
 -------------
 Why use DevX?
