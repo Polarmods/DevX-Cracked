@@ -52,7 +52,7 @@ Why use DevX?
 Installation
 -------------
 - Download and extract the .zip in releases
-- Run "DevXUnityUnpackerMain.exe"
+- Run "DevXUnityUnpackerRun.exe"
 - A prompt will appear informing you that DevX will freeze for a little bit, press "OK"
 - When message that says "data loaded" appears, press "OK"
 - DevX is ready to use when you see "DevXUnityEditor-GameRecovery" on the top left of the application.
