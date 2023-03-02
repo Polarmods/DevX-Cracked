@@ -2,7 +2,7 @@
 
 This is a cracked version of the full Game Recovery license of DevX. The one who cracked it has asked me not to share their name. The purpose of going public with it is so that the modding community can expand on the knowledge that's been gained, by sharing their own discoveries made with it (I'm still discovering new tricks with it).
 ----
-Guide: https://polarmods.com/threads/devx-mega-guide-obb-asset-bundle-modding-more.4982/
+Guide: https://polarmods.com/threads/devx-mega-guide-obb-asset-bundle-modding-more.4982/ OR https://archive.is/DJAe7
 ----
 Jasmur and I have managed to do some very interesting things as far as OBB and Bundle modding goes on mobile (thus bypassing integrity checks, and allowing for Google sign in without root) To name a few things possible:
 
