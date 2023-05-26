@@ -1,6 +1,6 @@
 # DevX-Cracked
 
-# 11.09 already WIP!
+# 11.10 soon in public beta!
 
 This is a cracked version of the full Game Recovery license of DevX. The one who cracked it has asked me not to share their name. The purpose of going public with it is so that the modding community can expand on the knowledge that's been gained, by sharing their own discoveries made with it (I'm still discovering new tricks with it).
 ----
