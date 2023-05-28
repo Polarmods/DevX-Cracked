@@ -1,6 +1,15 @@
 # DevX-Cracked
 
 This is a cracked version of the full Game Recovery license of DevX. The one who cracked it has asked me not to share their name. The purpose of going public with it is so that the modding community can expand on the knowledge that's been gained, by sharing their own discoveries made with it (I'm still discovering new tricks with it).
+
+-------------
+KNOWN ISSUES OF BETA:
+-------------
+- "Invalid License!" This is due to demo license getting banned (DevX also sometimes doesn't even issue demo license). Please wait for full release for offline version.
+- "Please restart application!" This happens to some people, wait for fix. Crack is still in beta and is working for a handful of people.
+
+Keep trying new license using VPN, and try on other machines or VM.
+
 ----
 Guide: https://polarmods.com/threads/devx-mega-guide-obb-asset-bundle-modding-more.4982/ OR https://archive.is/DJAe7
 ----
@@ -46,6 +55,7 @@ I recommend you use it in VM and VPN. Because DevX sends these to server:
 - PC name (Can be faked)
 - User name (Can be faked)
 - All processes
+
 
 
 -------------
