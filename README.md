@@ -5,7 +5,7 @@ This is a cracked version of the full Game Recovery license of DevX. The one who
 -------------
 KNOWN ISSUES OF BETA:
 -------------
-- "Invalid License!" This is due to demo license getting banned (DevX also sometimes doesn't even issue demo license). Please wait for full release for offline version.
+- "Invalid License!" This issue is y'all not reading the instrucions. USE DEMO LICENSE!!!
 - "Please restart application!" This happens to some people, wait for fix. Crack is still in beta and is working for a handful of people.
 
 Keep trying new license using VPN, and try on other machines or VM.
