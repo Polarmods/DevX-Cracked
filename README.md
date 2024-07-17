@@ -12,10 +12,6 @@ To Do:
 Guide: https://polarmods.com/threads/devx-mega-guide-obb-asset-bundle-modding-more.4982/ OR https://archive.is/DJAe7
 ----
 
-----
-Discord Server (Share/Discuss/Help): https://discord.gg/kz6rAXUewD
-even more useful guides there ;)
-----
 
 Jasmur and I have managed to do some very interesting things as far as OBB and Bundle modding goes on mobile (thus bypassing integrity checks, and allowing for Google sign in without root) To name a few things possible:
 
